@@ -1,4 +1,4 @@
-function sudo
+function sudo --description 'allows for sudo !!'
     if test "$argv" = !!
         eval command sudo $history[1]
     else
