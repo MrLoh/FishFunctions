@@ -20,3 +20,5 @@
 - newabbr:
     - adds new fish abbreviation 
     - see: https://github.com/fish-shell/fish-shell/issues/731
+- listabbr:
+    - lists fish abbreviations
