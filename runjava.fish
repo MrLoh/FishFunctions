@@ -1,4 +1,4 @@
 function runjava
-  javac $argv.java
+  javac *.java
   java $argv
 end

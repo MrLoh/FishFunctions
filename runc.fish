@@ -1,4 +1,4 @@
 function runc
-  clang -o $argv.out $argv.c
-  eval ./$argv.out
+  clang -o $argv $argv.c
+  eval ./$argv
 end
